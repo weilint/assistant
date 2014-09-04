@@ -64,7 +64,7 @@ MainWindow::MainWindow()
     createMenus();
 
     setWindowTitle(tr("Simple Text Viewer"));
-    resize(750, 400);
+    resize(750, 450);
 // ![1]
 }
 //! [1]
